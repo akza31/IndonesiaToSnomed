@@ -7,10 +7,10 @@ untuk installasi server snomed bisa mengakses link dibawah :
 syarat aplikasi ini bisa jalan jika API Snomed sudah bisa jalan.
 <br>
 <ul>
-  <li>1.Install server snomed dahulu pada komputer yang akan dijadikan server snomed</li>
-  <li>2.Buat Database untuk menampung riwayat pencarian (optional)/li>
-  <li>3.Download Zip file ini atau clone repositoris</li>
-  <li>4.Install composer nya jika gak bisa di autoload (optional)</li>
+  <li>Install server snomed dahulu pada komputer yang akan dijadikan server snomed</li>
+  <li>Buat Database untuk menampung riwayat pencarian (optional)</li>
+  <li>Download Zip file ini atau clone repositoris</li>
+  <li>Install composer nya jika gak bisa di autoload (optional)</li>
 </ul>
 
 <b>Semoga bisa menjadi berkah bagi saya jika ini bermanfaat untuk teman-teman semua</b>
